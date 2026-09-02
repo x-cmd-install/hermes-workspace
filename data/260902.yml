@@ -1,0 +1,64 @@
+about:
+  description: Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
+  license: MIT
+  homepage: https://hermes-workspace.com
+  head: c631425
+  archived: false
+  latestVersion: v2.3.0
+  collectedAt: 2026-09-02T04:35:33Z
+timeline:
+  created: 2026-03-16
+  lastCommit: 2026-08-22
+  lastRelease: 2026-05-08
+popularity:
+  star: 6548
+  watcher: 35
+  fork: 1038
+  release: 7
+  contributor: 84
+  pullRequest: 304
+  issue: 271
+language:
+  JavaScript: 21954417
+  TypeScript: 7240814
+  CSS: 64887
+  Python: 51013
+  Shell: 23131
+  Nix: 14333
+  PowerShell: 3272
+  Dockerfile: 3052
+  HTML: 2910
+totalLine: 29357829
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 29
+    closedIssue: 2
+    openIssue: 7
+    commit: 3
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 20
+    openPR: 66
+    closedIssue: 8
+    openIssue: 38
+    commit: 20
+  last180d:
+    since: 2026-03-06
+    release: 7
+    mergedPR: 199
+    openPR: 99
+    closedIssue: 220
+    openIssue: 51
+    commit: 1051
+  last360d:
+    since: 2025-09-07
+    release: 7
+    mergedPR: 199
+    openPR: 99
+    closedIssue: 220
+    openIssue: 51
+    commit: 1965

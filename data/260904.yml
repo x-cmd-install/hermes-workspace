@@ -1,11 +1,13 @@
 about:
-  description: Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
+  description:
+  |
+    Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
   license: MIT
   homepage: https://hermes-workspace.com
   head: c631425
   archived: false
   latestVersion: v2.3.0
-  collectedAt: 2026-09-04T04:34:57Z
+  collectedAt: 2026-09-04T19:36:48Z
 timeline:
   created: 2026-03-16
   lastCommit: 2026-08-22
@@ -13,10 +15,10 @@ timeline:
 popularity:
   star: 6562
   watcher: 35
-  fork: 1043
+  fork: 1044
   release: 7
   contributor: 84
-  pullRequest: 305
+  pullRequest: 505
   issue: 271
 language:
   JavaScript: 21954417
@@ -28,21 +30,29 @@ language:
   PowerShell: 3272
   Dockerfile: 3052
   HTML: 2910
-totalLine: 29357829
+totalBytes: 29357829
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
-    openPR: 29
+    openPR: 27
     closedIssue: 2
     openIssue: 5
+    commit: 3
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 45
+    closedIssue: 3
+    openIssue: 17
     commit: 3
   last90d:
     since: 2026-06-06
     release: 0
     mergedPR: 17
-    openPR: 66
+    openPR: 64
     closedIssue: 7
     openIssue: 36
     commit: 20
@@ -50,7 +60,7 @@ recent:
     since: 2026-03-08
     release: 7
     mergedPR: 199
-    openPR: 100
+    openPR: 98
     closedIssue: 220
     openIssue: 51
     commit: 1051
@@ -58,7 +68,25 @@ recent:
     since: 2025-09-09
     release: 7
     mergedPR: 199
-    openPR: 100
+    openPR: 98
     closedIssue: 220
     openIssue: 51
     commit: 1965
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 199
+    openPR: 98
+    closedIssue: 220
+    openIssue: 51
+    commit: 2030
+total:
+  release: 7
+  mergedPR: 199
+  openPR: 98
+  closedIssue: 220
+  openIssue: 51
+  commit: 2030
+---
+---
+

@@ -37,7 +37,7 @@ Total: **495,670** lines of code across **858** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,599 · **Forks**: 1,045 · **Open issues**: 273 · **Contributors**: 84
+- **Stars**: 6,602 · **Forks**: 1,047 · **Open issues**: 273 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for hermes-workspace lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:10:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:30:57Z._

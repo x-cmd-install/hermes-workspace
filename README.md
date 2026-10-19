@@ -37,22 +37,22 @@ Total: **495,670** lines of code across **858** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,727 · **Forks**: 1,053 · **Open issues**: 299 · **Contributors**: 84
+- **Stars**: 6,731 · **Forks**: 1,054 · **Open issues**: 299 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 199 · **Open PRs**: 101 · **Closed issues**: 222 · **Open issues**: 77 · **Commits**: 2030
+- **Releases**: 7 · **Merged PRs**: 199 · **Open PRs**: 102 · **Closed issues**: 222 · **Open issues**: 77 · **Commits**: 2030
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 7 | 2 | 17 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 27 | 2 | 29 | 3 |
-| 90d | 2026-07-20 | 0 | 0 | 46 | 4 | 39 | 3 |
-| last180d | 2026-04-21 | 5 | 169 | 101 | 177 | 77 | 469 |
-| 360d | 2025-10-23 | 7 | 199 | 101 | 222 | 77 | 1965 |
-| last720d | 2024-10-28 | 7 | 199 | 101 | 222 | 77 | 2030 |
+| 30d | 2026-09-19 | 0 | 0 | 8 | 2 | 17 | 0 |
+| last60d | 2026-08-20 | 0 | 0 | 28 | 2 | 29 | 0 |
+| 90d | 2026-07-21 | 0 | 0 | 47 | 4 | 39 | 3 |
+| last180d | 2026-04-22 | 5 | 148 | 102 | 175 | 77 | 430 |
+| 360d | 2025-10-24 | 7 | 199 | 102 | 222 | 77 | 1965 |
+| last720d | 2024-10-29 | 7 | 199 | 102 | 222 | 77 | 2030 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-workspace lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:15:05Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:19:36Z._

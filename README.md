@@ -37,7 +37,7 @@ Total: **495,670** lines of code across **858** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,844 · **Forks**: 1,058 · **Open issues**: 304 · **Contributors**: 84
+- **Stars**: 6,846 · **Forks**: 1,057 · **Open issues**: 304 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **495,670** lines of code across **858** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 18 | 2 | 21 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 33 | 2 | 33 | 0 |
-| last180d | 2026-05-28 | 0 | 21 | 89 | 15 | 75 | 74 |
-| 360d | 2025-11-29 | 7 | 199 | 109 | 222 | 82 | 1965 |
-| last720d | 2024-12-04 | 7 | 199 | 109 | 222 | 82 | 2030 |
+| 30d | 2026-10-26 | 0 | 0 | 9 | 0 | 2 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 18 | 2 | 20 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 32 | 2 | 33 | 0 |
+| last180d | 2026-05-29 | 0 | 21 | 88 | 14 | 75 | 74 |
+| 360d | 2025-11-30 | 7 | 199 | 109 | 222 | 82 | 1965 |
+| last720d | 2024-12-05 | 7 | 199 | 109 | 222 | 82 | 2030 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-workspace lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:49Z._

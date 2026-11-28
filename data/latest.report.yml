@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:00:50Z
+  collectedAt: 2026-11-28T09:04:32Z
 timeline:
   created: 2026-03-16
   lastCommit: 2026-08-22
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-08
   lastPrerelease: 
 popularity:
-  star: 6851
+  star: 6855
   watcher: 35
-  fork: 1057
+  fork: 1059
   release: 7
   contributor: 84
   pullRequest: 534
@@ -35,7 +35,7 @@ language:
 totalBytes: 29357829
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 8
@@ -43,7 +43,7 @@ recent:
     openIssue: 4
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 18
@@ -51,23 +51,23 @@ recent:
     openIssue: 22
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
-    openPR: 31
+    openPR: 29
     closedIssue: 2
-    openIssue: 34
+    openIssue: 33
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 21
-    openPR: 85
-    closedIssue: 12
-    openIssue: 75
+    openPR: 83
+    closedIssue: 11
+    openIssue: 73
     commit: 74
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 7
     mergedPR: 199
     openPR: 109
@@ -75,7 +75,7 @@ recent:
     openIssue: 84
     commit: 1965
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 7
     mergedPR: 199
     openPR: 109
@@ -91,7 +91,7 @@ total:
   commit: 2030
 ---
 path: /home/runner/.x-repo/github.com/outsourc-e/hermes-workspace
-collectedAt: 2026-11-27T10:00:58Z
+collectedAt: 2026-11-28T09:04:39Z
 loc:
   JavaScript:
     code: 294306
